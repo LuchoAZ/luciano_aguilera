@@ -1,60 +1,60 @@
-# 1
+# EJ1
 
-numero1 = 25
+numero1 = 30
 
-# 2
+# Ej2
 
-numero2 = 2.00
+numero2 = 5.00
 
-# 3
+# Ej3
 
 sum = numero1 + numero2
 
-# 4
+# Ej4
 
 res = numero1 - numero2
 div = numero1 / numero2
 mult = numero1 * numero2
-print(f'Resta: {res}, Division: {div}, Multiplicacion: {mult}')
+print(f'ResT: {res}, Div: {div}, MultiP: {mult}')
 
-# 5 
+# Ej5 
 
-nombre = 'Rodrigo'
+nombre = 'Luciano'
 
-# 6
+# Ej6
 
-precio = 1300.25
+precio = 2500.25
 
-# 7
+# Ej7
 
 descuento = 0.5
 
-# 8
+# Ej8
 
 precio_final = precio - (precio * descuento)
 
-# 9 
+# Ej9 
 
-cadena = 'Esto es una cadena'
+cadena = 'Hola Mundo1'
 
-# 10
+# Ej10
 
 longitud = len(cadena)
 
-# 11
+# Ej11
 
 precio = 120.50
 precio = int(precio)
 
-# 12
+# Ej12
 
-nombre = 'Rodrigo'
-apellido = 'Zapata'
+nombre = 'Luciano '
+apellido = 'Aguilera '
 nombre_completo = nombre + ' ' + apellido
 
-# 13
+# Ej13
 
-edad = 19
+edad = 26
 edad += 5
 edad -= 10
 
@@ -66,10 +66,10 @@ altura /= 3
 
 # 15
 
-nombre_mayus = 'RODRIGO'
+nombre_mayus = 'LUCIANO'
 nombre_mayus = nombre_mayus.lower()
 
 # 16
-nombre_mayus = 'RODRIGO'
+nombre_mayus = 'LUCIANO'
 
 nombre_mayus = nombre_mayus.capitalize()
